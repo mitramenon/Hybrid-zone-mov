@@ -1,4 +1,10 @@
-#Script assumes that you are in a directory with all the required generation files, if not be sure to change paths while generating vectors
+##modifying CDPop genetic output for input into fastStructure########
+###author: menonm2 (menonm2@mymail.vcu.edu)
+##Date:5-Nov-2018####
+########################################################
+
+#Script assumes that you are in a directory with all the required generation files, 
+#if not be sure to change paths while generating vectors
 
 
 library(data.table)
