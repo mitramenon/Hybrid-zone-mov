@@ -1,4 +1,9 @@
-###This script is used to analyse the empirical dataset used in this study but the function estOhta was used for analysing simulation output too
+######################################################################
+######Estimation of LD variance partioning using Ohta's approach##########
+######Author: menonm2 (menonm2@mymail.vcu.edu)
+######Last modified: 1-Nov-2018
+##########################################################################
+###This script is used to analyse the empirical dataset used in this study but the function `estOhta` was also used for analysing simulation output too
 ###For the simulation output, loci in the top10 percentile of allele frequency difference were first selected as the TopCandidates (See associated paper)
 
 library(data.table)
